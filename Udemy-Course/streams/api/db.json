@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "New User",
+      "description": "This is a new one",
+      "id": 1
+    },
+    {
+      "title": "Latest",
+      "description": "New try",
+      "userId": "107197200592424613606",
+      "id": 2
+    },
+    {
+      "title": "Programmatic Nav",
+      "description": "testing",
+      "userId": "107197200592424613606",
+      "id": 3
+    },
+    {
+      "title": "Streaming component reuse",
+      "description": "Refactor",
+      "id": 4
+    }
+  ]
+}

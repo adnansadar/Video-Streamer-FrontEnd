@@ -1,6 +1,8 @@
 # Video Streamer Front End with React
+## DOWNLOAD AND RUN ALL 3 REPOSITORIES
 [Link](https://github.com/adnansadar/VideoStreamer-Backend) for BackEnd of this project
-[Link](https://github.com/adnansadar/VideoStreamer-NodeMediaServer] for Node Media Server
+###
+[Link](https://github.com/adnansadar/VideoStreamer-NodeMediaServer) for Node Media Server
 
 https://user-images.githubusercontent.com/45177064/115114115-3ad20b00-9fab-11eb-8eb7-b62c19088a56.mp4
 

@@ -1,12 +1,11 @@
 
 
 # dependencies
-./NodeMediaServer/node_modules
-./client/node_modules
-./api/node_modules
+node_modules
+
 
 # production
-./client/build
+/build
 
 
 npm-debug.log*
